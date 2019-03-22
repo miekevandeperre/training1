@@ -28,3 +28,7 @@ function DoeIets(){
 
     var b = "nog voor feature1";
 }
+
+function BugFix1(){
+    console.log("opgelost");
+}
