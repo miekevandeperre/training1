@@ -14,4 +14,6 @@ function DoeIets(){
     console.log("d");
     console.log("e");
 
+    console.log("f");
+
 }
