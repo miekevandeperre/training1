@@ -19,4 +19,10 @@ function DoeIets(){
     }
     console.log("f");
 
+
+
+    //Feature 1
+    var f = "feature1";
+    console.log(f);
+
 }
