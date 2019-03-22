@@ -6,7 +6,12 @@ function DoeIets(){
    // console.log("b");
     console.log("c");
 
+
     while(true){
         
     }
+
+    console.log("d");
+    console.log("e");
+
 }
