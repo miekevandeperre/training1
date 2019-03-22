@@ -30,3 +30,8 @@ function DoeIets(){
 
     var m = "master!!";
 }
+
+
+function oplossing(){
+    console.log("oplossing");
+}
