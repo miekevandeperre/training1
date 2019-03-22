@@ -27,4 +27,6 @@ function DoeIets(){
 
 
     var b = "nog voor feature1";
+
+    var m = "master!!";
 }
